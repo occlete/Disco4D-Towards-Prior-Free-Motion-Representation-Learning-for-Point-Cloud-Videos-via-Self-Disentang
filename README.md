@@ -1,5 +1,5 @@
-# Part code of Uni4D
-## Official implement of Uni4D by PyTorch
+# Part code of Disco4D: Towards Prior-Free Motion Representation Learning for Point Cloud Videos via Self-Disentangled Contrastive Pre-training
+## Official implement of Disco4D by PyTorch
 ## Device: 2 × RTX 4090
 
 ## Installation
